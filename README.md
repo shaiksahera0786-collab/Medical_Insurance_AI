@@ -4,6 +4,22 @@ An end-to-end Machine Learning project that predicts medical insurance charges b
 
 ---
 
+
+## 🌐 Live Demo
+
+**Streamlit App:** 
+https://medicalinsuranceai-fcyleptsh3fft2dphfehzd.streamlit.app/
+
+## 📂 GitHub Repository
+
+https://github.com/shaiksahera0786-collab/Medical_Insurance_AI.git
+
+
+
+---
+
+
+
 ## 🚀 Project Overview
 
 This project uses Machine Learning to estimate medical insurance costs using features such as:
