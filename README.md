@@ -83,6 +83,45 @@ Streamlit Deployment
 
 ---
 
+
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+
+![Home Page](screenshots/home_page.png)
+
+---
+
+## 🔮 Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/dashboard_1.png)
+
+---
+
+## 📈 Dataset Analytics
+
+![Dataset Analytics](screenshots/dashboard_2.png)
+
+---
+
+## 📄 Dataset Preview
+
+![Dataset Preview](screenshots/dataset_preview.png)
+
+---
+
+## 📋 Prediction Details
+
+![Prediction Details](screenshots/details.png)
+
 ## 👨‍💻 Developed By
 
 **Shaik Sahera**
